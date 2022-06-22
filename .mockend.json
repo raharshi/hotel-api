@@ -162,5 +162,217 @@
 				27
 			]
 		}
-	}
+	},
+	"Hotel":{
+		"name":{
+			"string": [
+				"Olivia",
+				"Emma",
+				"Ava",
+				"Charlotte",
+				"Sophia",
+				"Amelia",
+				"Isabella",
+				"Mia",
+				"Evelyn",
+				"Harper",
+				"Camila",
+				"Gianna",
+				"Abigail",
+				"Luna",
+				"Ella",
+				"Elizabeth",
+				"Sofia",
+				"Emily",
+				"Avery",
+				"Mila",
+				"Scarlett",
+				"Eleanor",
+				"Madison",
+				"Layla",
+				"Penelope",
+				"Aria",
+				"Chloe",
+				"Grace",
+				"Ellie",
+				"Nora",
+				"Hazel",
+				"Zoey",
+				"Riley",
+				"Victoria",
+				"Lily",
+				"Aurora",
+				"Violet",
+				"Nova",
+				"Hannah",
+				"Emilia",
+				"Zoe",
+				"Stella",
+				"Everly",
+				"Isla",
+				"Leah",
+				"Lillian",
+				"Addison",
+				"Willow",
+				"Lucy",
+				"Paisley"
+			]
+		},
+		"year_established": {
+			"int": [
+				1814,
+				1865,
+				1875,
+				1925,
+				1999,
+				1865,
+				1870,
+				1862,
+				1922,
+				2000,
+				1967,
+				1603,
+				1937
+			]
+		},
+		"neighborhood":{
+			"string":[
+				"New York",
+				"Buffalo",
+				"Rochester",
+				"Yonkers",
+				"Syracuse",
+				"Albany",
+				"New Rochelle",
+				"Mount Vernon",
+				"Schenectady",
+				"Utica",
+				"White Plains",
+				"Hempstead",
+				"Troy",
+				"Niagara Falls",
+				"Binghamton",
+				"Freeport",
+				"Valley Stream",
+				"Los Angeles",
+				"San Diego",
+				"San Jose",
+				"San Francisco",
+				"Fresno",
+				"Sacramento",
+				"Long Beach",
+				"Oakland",
+				"Bakersfield",
+				"Anaheim",
+				"Santa Ana",
+				"Riverside",
+				"Stockton",
+				"Chula Vista",
+				"Irvine",
+				"Fremont"
+			]
+		},
+		"operating_hours": {
+			"string": [
+				"5:30 pm - 11:00 pm",
+				"5:30 pm - 12:00 am",
+				"5:30 pm - 12:00 am",
+				"5:30 pm - 12:00 am",
+				"5:30 pm - 12:00 am",
+				"12:00 pm - 4:00 pm", 
+				"5:30 pm - 12:00 am",
+				"12:00 pm - 4:00 pm", 
+				"5:30 pm - 11:00 pm"
+			]
+		},
+		"cuisine": {
+			"string":	[
+				"Afghan",
+				"African",
+				"Albanian",
+				"Algerian",
+				"Alsatian",
+				"American",
+				"Armenian",
+				"Argentine",
+				"Asian",
+				"Australian",
+				"Austrian",
+				"Auvergne",
+				"Bagels",
+				"Bakery",
+				"Bangladeshi",
+				"Barbecue",
+				"Belgian",
+				"Bistro",
+				"Brazilian",
+				"British",
+				"Burgers",
+				"Burgundy",
+				"Burmese",
+				"Cafe",
+				"Cajun",
+				"Californian",
+				"Calzones",
+				"Cambodian",
+				"Caribbean"
+			]
+		},
+		"reviews": {
+			"name": {
+				"string": [
+					"Jace",
+					"Derek",
+					"Kaiden",
+					"Ricardo",
+					"Jaiden",
+					"Grayson",
+					"Andres",
+					"Braxton",
+					"Jaylen",
+					"Wesley",
+					"Travis",
+					"Shane",
+					"Fernando",
+					"Abraham",
+					"Maddox",
+					"Jude",
+					"Francisco",
+					"Garrett",
+					"Braden",
+					"Alexis",
+					"Javier",
+					"Lincoln",
+					"Damien",
+					"Peter",
+					"Erick",
+					"Edwin",
+					"Josue",
+					"Camden",
+					"Manuel",
+					"Bradley",
+					"Rylan"
+				]
+			},
+			"date": {
+				"string":[
+					"October 26, 2016"
+				]
+			},
+			"rating": {
+				"int":[
+					4,
+					3,
+					5
+				]
+			},	
+			"comments":{
+				"string":[
+					"Mission Chinese Food has grown up from its scrappy Orchard Street days into a big, two story restaurant equipped with a pizza oven, a prime rib cart, and a much broader menu. Yes, it still has all the hits — the kung pao pastrami, the thrice cooked bacon —but chef/proprietor Danny Bowien and executive chef Angela Dimayuga have also added a raw bar, two generous family-style set menus, and showstoppers like duck baked in clay. And you can still get a lot of food without breaking the bank.",
+					"This place is a blast. Must orders: GREEN TEA NOODS, sounds gross (to me at least) but these were incredible!, Kung pao pastrami (but you already knew that), beef tartare was a fun appetizer that we decided to try, the spicy ma po tofu SUPER spicy but delicous, egg rolls and scallion pancake i could have passed on... I wish we would have gone with a larger group, so much more I would have liked to try!",
+					"I was VERY excited to come here after seeing and hearing so many good things about this place. Having read much, I knew going into it that it was not going to be authentic Chinese. The place was edgy, had a punk rock throwback attitude, and generally delivered the desired atmosphere. Things went downhill from there though. The food was okay at best and the best qualities were easily overshadowed by what I believe to be poor decisions by the kitchen staff."
+				]
+			}
+		  }
+		}
 }
