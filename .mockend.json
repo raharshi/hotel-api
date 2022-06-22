@@ -28,7 +28,6 @@
       "boolean": {}
     }
   },
-  {
   "Post": {
     "title": { "string": {} },
     "comments": {
@@ -41,5 +40,4 @@
       "belongsTo": "Post"
     }
   }
-}
 }
