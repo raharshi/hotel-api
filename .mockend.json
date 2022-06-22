@@ -41,10 +41,91 @@
     }
   },
   "Book": {
-    "name": { "loremWords": { "minLength": 5, "maxLength": 20 } },
-    "comment": {
-     "loremSentences": { "minLength": 100, "maxLength": 200 }
-    }
-  }
+    "title": {
+		"string": [
+			"Northanger Abbey", 
+			"War and Peace", 
+			"Anna Karenina", 
+			"Mrs. Dalloway", 
+			"The Hours", 
+			"Huckleberry Finn", 
+			"Bleak House", 
+			"Tom Sawyer", 
+			"A Room of One's Own", 
+			"Harry Potter", 
+			"One Hundred Years of Solitude", 
+			"Hamlet, Prince of Denmark", 
+			"Lord of the Rings"
+		]
+	},
+	"author": {
+		"string": [
+			"Austen, Jane", 
+			"Tolstoy, Leo", 
+			"Tolstoy, Leo", 
+			"Woolf, Virginia", 
+			"Cunnningham, Michael",
+			"Twain, Mark", 
+			"Dickens, Charles",
+			"Twain, Mark", 
+			"Woolf, Virginia", 
+			"Rowling, J.K.", 
+			"Harper  Perennial", 
+			"Shakespeare", 
+			"Tolkien, J.R."
+		]
+	},
+	"year_written": {
+		"string": [
+			1814,
+			1865,
+			1875,
+			1925,
+			1999,
+			1865,
+			1870,
+			1862,
+			1922,
+			2000,
+			1967,
+			1603,
+			1937
+		]
+	},
+	"edition": {
+		"string": [
+			"Penguin", 
+			"Penguin", 
+			"Penguin", 
+			"Harcourt Brace", 
+			"Harcourt Brace", 
+			"Penguin", 
+			"Random House", 
+			"Random House", 
+			"Penguin", 
+			"Harcourt Brace", 
+			"Harper  Perennial", 
+			"Signet  Classics", 
+			"Penguin"
+		]
+	},
+	"price": {
+		"int": [
+			18.2,
+			12.7,
+			13.5,
+			25,
+			12.35,
+			5.76,
+			5.75,
+			7.75,
+			29,
+			19.95,
+			14.00,
+			7.95,
+			27.45
+		]
+	},
+   }
    
 }
