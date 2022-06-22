@@ -39,5 +39,10 @@
     "isPublic": {
       "boolean": {}
     }
-  }
+  },
+   "Book": {
+    "name": {
+      "string": {}
+    },
+   }
 }
