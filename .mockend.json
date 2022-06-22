@@ -40,9 +40,11 @@
       "boolean": {}
     }
   },
-   "Book": {
-    "name": {
-      "string": {}
-    },
-   }
+  "Book": {
+    "name": { "string": {} },
+    "comments": {
+      "hasMany": "Comment"
+    }
+  }
+   
 }
