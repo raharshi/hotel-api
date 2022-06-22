@@ -41,9 +41,9 @@
     }
   },
   "Book": {
-    "name": { "string": {} },
-    "comments": {
-      "hasMany": "Comment"
+    "name": { "loremWords": { "minLength": 5, "maxLength": 20 } },
+    "comment": {
+     "loremSentences": { "minLength": 100, "maxLength": 200 }
     }
   }
    
